@@ -2,10 +2,11 @@
 
 ### A Framework for Transferring Facial Landmarks from Visible Spectrum to Thermal Spectrum Images
 
-Selected code and outputs from my UCL MSc Data Science and Machine Learning thesis.\
 <br/>
 
 ### Overview
+This project contains selected code and outputs from my UCL MSc Data Science and Machine Learning thesis.
+<br/>
 The ability to accurately identify landmark locations on thermal facial images is key to a
 
 number of facial analysis problems. Annotation on thermal images using models trained on visible
