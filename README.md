@@ -4,7 +4,8 @@
 
 Selected code and outputs from my UCL MSc Data Science and Machine Learning thesis.\
 <br/>
-  
+
+### Overview
 The ability to accurately identify landmark locations on thermal facial images is key to a
 
 number of facial analysis problems. Annotation on thermal images using models trained on visible
