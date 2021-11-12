@@ -13,6 +13,12 @@ The ability to accurately identify landmark locations on thermal facial images i
 
 
 
+
+https://user-images.githubusercontent.com/45227692/141483931-362d1c86-03f4-4254-aa75-ae7737cad236.mp4
+
+
+
+
 <!-- ![Example](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/videos/p06_lmarks_compare_pix.mp4) -->
 
 <!-- <video src='https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/videos/p06_lmarks_compare_pix.mp4' width=180/> -->
